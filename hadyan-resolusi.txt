@@ -2,4 +2,3 @@ HADYAN RESOLUSI
 - Belajar dasar-dasar HTML, CSS, PHP, JavaScript, dan MySQL
 - Menguasai framework front-end dan back-end
 - Bikin project
-- Berkarir di bidang IT khususnya bidang programming
