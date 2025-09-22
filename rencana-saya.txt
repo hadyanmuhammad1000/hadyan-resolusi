@@ -4,3 +4,4 @@ Rencana Saya
 - Bergabung ke komunitas programmer
 - Berkolaborasi dengan programmer lain
 - Ikut berkontribusi pada project open source
+- Membuat aplikasi yang berguna bagi masyarakat
