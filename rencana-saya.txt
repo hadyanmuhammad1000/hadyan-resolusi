@@ -2,7 +2,6 @@ Rencana Saya
 
 - Berkarir di bidang IT
 - Bergabung ke komunitas programmer
-- Berkolaborasi dengan programmer lain
 - Ikut berkontribusi pada project open source
 - Membuat aplikasi yang berguna bagi masyarakat
 - Menciptakan media belajar programming terbaik
